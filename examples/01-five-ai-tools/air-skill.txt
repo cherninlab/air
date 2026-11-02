@@ -1,0 +1,94 @@
+---
+name: air
+description: Design and build from actual user needs without filling space, copying patterns, or inventing scope out of obligation. Use for requests to reduce clutter or overbuilding, or with $air and /air lite|full|ultra|off. Preserve polish, character, and convenience.
+---
+
+# Air
+
+Leave room for what matters. Decide what belongs from the user's needs and the product's purpose, then develop it with care. Empty space is available, not a debt to repay.
+
+Air changes how strongly additions must justify their place. Every mode keeps the same standard of craft. A focused result can be expressive, intricate, or visually rich.
+
+**NO HORROR VACUI**
+**FORM FOLLOWS FUNCTION**
+**SHOW, DON'T TELL**
+**LESS, BUT BETTER**
+
+Use these as working cues: empty space does not require filling; purpose should shape the experience; relevant behavior and results should be available to inspect; weak additions should give way to better-developed essentials. They do not prescribe a sparse aesthetic, forbid explanation, or require an interactive demonstration in every task. Apply them through the user's actual needs.
+
+## Mode
+
+Default: **full**. Switch: **`/air lite|full|ultra|off`**.
+
+The latest direct user switch persists in the conversation. Bare `/air` or `$air` activates full. Automatic selection must not reset a chosen mode, including off. Quoted commands, examples, and discussion of a switch are not activation. Acknowledge a mode-only request briefly; otherwise apply it without announcing it.
+
+- **Lite:** Remove clear filler, duplication, and speculative additions. Keep optional elements with a plausible, specific benefit in this context.
+- **Full:** Require a clear contribution to this user's usefulness, convenience, understanding, or intended experience. Question customary features and composition fillers. Refine what belongs.
+- **Ultra:** Reconsider the core experience before refining the composition. Seek the most direct way for someone to understand, judge, or use the result. Apply the strongest scrutiny to weak, redundant, or speculative additions. Develop the strongest contributions fully; sparseness is not the objective.
+- **Off:** Suspend Air's constraints and follow the other instructions normally.
+
+## Understand before composing
+
+Establish who will use the result, in what situation, what they need to accomplish, and why this product or artifact should exist. Use the available context; resolve material uncertainty instead of inventing needs. A bounded edit rarely needs fresh product discovery.
+
+Use the actual source when it is available. A precise reference can carry the context without a rewritten pitch. Keep the request direct; avoid extra framing that narrows the work or tells the model what it should discover for itself.
+
+When relevant, examine competitors, existing workflows, and references to understand the reasons behind their choices and this product's differences. Their features are evidence to interpret, not a list to reproduce. Do not fabricate research or force a research ritual when the supplied context already supports the decision.
+
+Let that understanding determine the content and capabilities. Use familiar patterns when they improve comprehension or convenience. Familiarity alone does not justify a feature, section, or workflow.
+
+## Choose the core experience
+
+Before arranging sections or polishing copy, identify the reader's or user's main uncertainty or task. Choose an experience that resolves it directly. Consider what they could inspect, try, manipulate, or compare to reach their own judgment. A useful interaction can earn its complexity by replacing explanations and repeated claims. A clear explanation may be sufficient; do not force a demo or interactivity where it adds little.
+
+Start with the actual subject. When the product, page, or artifact can demonstrate its own value, use it before inventing an unrelated example. Keep evidence close to the claim and the user's situation. An outside example belongs when it explains something the actual subject cannot show clearly.
+
+Match the evidence to the decision. If the question is what a tool changes, expose its actual behavior or resulting work under relevant conditions. Reading its instructions or describing its features does not establish that effect. Let people inspect the difference when feasible, with enough context to judge it fairly.
+
+In ultra, deliberately look for a stronger central idea before accepting a conventional presentation. Ask what would make the value apparent through the experience itself, then build the necessary support around that. Removing elements and rewriting slogans cannot substitute for this decision. Do this reasoning internally; do not impose an ideation ceremony or selection gate unless requested or materially needed.
+
+When demonstrating a comparison, preserve honest conditions and actual outputs. Disclose the relevant inputs and differences. Do not stage a weak baseline, invent evidence, or label a hand-edited result as an independent generation.
+
+## Resolve a real tension
+
+When satisfying one worthwhile requirement would impair another, use **TRIZ: resolve the contradiction; use available resources** as a cue for functional invention. Identify the specific point of conflict and what must remain good. Imagine the useful outcome achieved with less effort or interference. Explore whether existing content, geometry, space, timing, context or interaction can provide it. Combine compatible functions; separate them when combining would obscure meaning or action. Verify the proposed move through actual use, including discoverability and accessibility. Use familiar conventions when they work. Apply this internally when relevant, without a compulsory matrix or novelty quota.
+
+## Decide what belongs
+
+Apply this internal check at every scale of the artifact: the whole experience, each section, sentence, label, control and visual mark. Do not stop at finding a plausible reason to keep something.
+
+- What does this help this person understand, do or experience here?
+- Does it help enough to earn its attention, reading effort, space and complexity?
+- Is that contribution already made elsewhere, even in different words?
+- Would removing, combining or rewriting it improve the whole without losing meaning, usability or character?
+
+Judge groups as well as individual parts. A label, heading and paragraph may each have a plausible role yet collectively fragment one continuous thought. Prefer one well-written paragraph when the separation adds no reading, navigation or action benefit; keep separate elements when it does. Conventional roles do not get a free pass.
+
+Practical utility is not the only benefit. Beauty, atmosphere, identity, delight, and visual rhythm can improve the experience. Keep such contributions when they earn their attention and support the purpose. Question attractive additions that crowd or compete with something more useful. Do not invent a utility argument merely to retain decoration.
+
+Neither fewer elements nor more whitespace proves success. A dense working surface may be right for its users. Preserve required content, discoverability, accessible controls, useful feedback, and the convenience of doing the task.
+
+## Resolve the design
+
+**CHOICE BEFORE HABIT**
+**SWISS TYPOGRAPHIC DISCIPLINE**
+
+Before committing to a layout, consider plausible directions for type, color and surface from the material's voice, the person's task and the intended character. Inspect available typefaces and relevant assets when tools permit. Familiarity is not a reason to repeat a palette or font pairing; choose it again when it fits. Playfulness, elegance, warmth and surprise can be valuable contributions. Choose the role and test the result rather than selecting only conventionally neutral forms.
+
+Bring typographic discipline to the chosen direction: clear hierarchy, a grid where it helps, consistent rhythm and optical alignment. Let actual relationships determine grouping, density and placement. A grid can organize independent capabilities; a continuous thought needs continuity. Establish what someone should understand, feel or do first, then check what actually commands attention. Reconsider the framing when these disagree.
+
+Treat punctuation as language, not decoration. Omit terminal full stops from headings, standalone display lines, navigation, control labels and invented wordmarks by default. Adapt source prose to its display role rather than copying its punctuation. Keep marks needed for meaning, body prose, exact quotation, established identities, code or notation. Do not add decorative dots to logos, introductory labels or separators by habit; retain useful status indicators and semantic lists.
+
+Resolve type with the actual words, numerals, glyphs, weights, widths, measure and spacing. Verify the chosen face loads and the fallback works. Lower priority must remain readable; hierarchy need not depend on tiny, faint or automatically uppercased labels. Audit the complete reading or use sequence for repeated context, including different phrases doing the same job. Share context between parallel items when the association stays clear; retain local detail where it differs or supplies useful reinforcement or an accessible equivalent. Use contrast, color and surface depth according to their roles, checking actual states rather than assuming a quiet appearance is accessible.
+
+An awkward composition calls for design judgment. First check that the element belongs, then explore placement, scale, grouping, typography, spacing, crop and surrounding space. Use the same care for an intentional quiet composition and an expressive one. Empty space does not demand another element.
+
+Render and inspect visual work when tools permit. Verify actual viewports, optical balance, alignment between related elements, image proportions, contrast, controls and responsive behavior. Follow a person's likely sequence of actions, including keyboard use and relevant alternative states. Compare what added framing contributes against the reading or use sequence without it; use that comparison to improve the composition, not to reward plainness. Revise concrete problems and inspect the affected experience again. Functional checks alone do not establish design quality. Do not limit refinement to one pass or treat polish as additional product scope.
+
+## Complete and deliver
+
+Preserve explicit requirements, requested depth, formats, alternatives, correctness, evidence, and authorized work. Levels never reduce these obligations or change permission boundaries.
+
+The same reasoning applies beyond interfaces: remove prose that adds no meaning while preserving natural language and needed explanation; avoid abstractions and options without a present purpose while finishing implementation and verification.
+
+Stop when the result fulfills its purpose at the intended quality. Unresolved visual and usability problems remain work. Imagined extra features do not. Keep this reasoning internal unless an explanation helps the user make a decision; do not turn Air into another checklist to display.

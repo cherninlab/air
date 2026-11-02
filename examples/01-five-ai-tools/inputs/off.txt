@@ -1,0 +1,12 @@
+Create a finished educational social-media infographic about five AI tools that help ordinary people build websites and applications.
+
+Use exactly these five tools, in this order, with the following names and descriptions unchanged; you may choose the layout and line breaks:
+1. Lovable — Create websites and apps by describing your idea.
+2. Bolt.new — Build websites and web apps by chatting with AI.
+3. v0 — Generate and refine web interfaces and apps from prompts.
+4. Replit — Build, run, and publish apps with AI in your browser.
+5. Wix AI — Create and customize a website through an AI-guided conversation.
+
+Your mission is to replace hesitation with excitement, confusion with clarity, and “I could never do that” with “I could try this today.”
+The overall emotional experience should be optimistic, empowering, energetic, friendly, practical, reassuring, immediately understandable, and full of possibility. Make advanced technology feel approachable and useful.
+Take full creative responsibility for translating these communication goals into the finished image.

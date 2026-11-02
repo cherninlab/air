@@ -1,0 +1,4 @@
+interface:
+  display_name: "Air"
+  short_description: "Choose what belongs; preserve craft and character"
+  default_prompt: "Use $air at full to understand what belongs in this task and develop it with care, without filling space or inventing scope."

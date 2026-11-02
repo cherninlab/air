@@ -1,0 +1,129 @@
+{
+  "id": "01-five-ai-tools",
+  "title": "Five AI tools infographic",
+  "created_on": "2026-11-02",
+  "brief": "brief.txt",
+  "fixed_tools": [
+    {
+      "name": "Lovable",
+      "description": "Create websites and apps by describing your idea.",
+      "source": "https://lovable.dev/"
+    },
+    {
+      "name": "Bolt.new",
+      "description": "Build websites and web apps by chatting with AI.",
+      "source": "https://bolt.new/"
+    },
+    {
+      "name": "v0",
+      "description": "Generate and refine web interfaces and apps from prompts.",
+      "source": "https://v0.app/"
+    },
+    {
+      "name": "Replit",
+      "description": "Build, run, and publish apps with AI in your browser.",
+      "source": "https://replit.com/products/agent"
+    },
+    {
+      "name": "Wix AI",
+      "description": "Create and customize a website through an AI-guided conversation.",
+      "source": "https://www.wix.com/ai-website-builder"
+    }
+  ],
+  "skill": {
+    "snapshot": "air-skill.txt",
+    "sha256": "9f6fd640b841165ef62524b85f29306628bf15352a1f837d9994dbd141a435e7"
+  },
+  "tool": "image_gen.imagegen",
+  "image_model_revision": null,
+  "random_seed": null,
+  "method": "Separate fresh courier contexts relayed prepared image-tool prompts unchanged. Off omits Air. Lite, Full and Ultra prepend the same complete skill snapshot with the selected mode. Ultra ×2 edits the Ultra image once using that same skill and original brief.",
+  "selection_policy": "First successful output per condition. No aesthetic rerolls or manual image edits.",
+  "limits": "One recorded run per condition. General platform/tool instructions still apply. Image-service hidden context, model revision and random seed are not exposed; complete backend isolation is unverified.",
+  "conditions": [
+    {
+      "id": "off",
+      "label": "Off",
+      "air_mode": "off",
+      "image": "images/off.png",
+      "input": "inputs/off.txt",
+      "image_sha256": "7fb7aed338df43af47a17871fab4f41b592e221c9251f7522db8d102db994d18",
+      "input_sha256": "5bb777e76eada2a4038e0785f12e8815d1ca03fafe0841b6a78cad5ddb9d3e86",
+      "dimensions_px": [
+        1217,
+        1292
+      ],
+      "image_generation_calls": 1,
+      "image_references": [],
+      "generation_steps_from_brief": 1
+    },
+    {
+      "id": "lite",
+      "label": "Lite",
+      "air_mode": "lite",
+      "image": "images/lite.png",
+      "input": "inputs/lite.txt",
+      "image_sha256": "4a299fc4a6bf40ccb229e3a36b48e3d2f0954bf8013558db4fbce94fcf434536",
+      "input_sha256": "535dbeb8a5dacf15621619b3512f97ba5bf25373ca61e336b5a18201d4678dc0",
+      "dimensions_px": [
+        1199,
+        1312
+      ],
+      "image_generation_calls": 1,
+      "image_references": [],
+      "generation_steps_from_brief": 1
+    },
+    {
+      "id": "full",
+      "label": "Full",
+      "air_mode": "full",
+      "image": "images/full.png",
+      "input": "inputs/full.txt",
+      "image_sha256": "901427d0bc20191c38eb1e631bedbfde4883c7fb6183ae9703fb53f3afd212d4",
+      "input_sha256": "82deff406d42a0294462e8419da336fb9b1c20a1d7f09777f7208180db52a3b7",
+      "dimensions_px": [
+        1199,
+        1312
+      ],
+      "image_generation_calls": 1,
+      "image_references": [],
+      "generation_steps_from_brief": 1
+    },
+    {
+      "id": "ultra",
+      "label": "Ultra",
+      "air_mode": "ultra",
+      "image": "images/ultra.png",
+      "input": "inputs/ultra.txt",
+      "image_sha256": "772f4f891948891059b73a6597d458108a45ad17d5c5ab74602f2ec8e80eafdc",
+      "input_sha256": "6ab2395a014d66788080485a7cbdc70c2843d09eccd68eb18a0c82bc9a47e4de",
+      "dimensions_px": [
+        1199,
+        1312
+      ],
+      "image_generation_calls": 1,
+      "image_references": [],
+      "generation_steps_from_brief": 1
+    },
+    {
+      "id": "ultra-x2",
+      "label": "Ultra ×2",
+      "air_mode": "ultra",
+      "image": "images/ultra-x2.png",
+      "input": "inputs/ultra-x2.txt",
+      "image_sha256": "272ade6d651a508a4291b77b79eb703a82cbade5b91405043754d62f8e18ac1d",
+      "input_sha256": "84c0424cdc384cd48fa2875828ba5f1baa9460f67269480a884bb49730c2bd16",
+      "dimensions_px": [
+        1199,
+        1312
+      ],
+      "image_generation_calls": 1,
+      "image_references": [
+        "images/ultra.png"
+      ],
+      "parent_condition": "ultra",
+      "parent_image_sha256": "772f4f891948891059b73a6597d458108a45ad17d5c5ab74602f2ec8e80eafdc",
+      "generation_steps_from_brief": 2
+    }
+  ]
+}
