@@ -1,10 +1,12 @@
 # /air
 
+[![Skills.sh installs](https://skills.sh/b/cherninlab/air)](https://www.skills.sh/cherninlab/air/air)
+
 Air is an Agent Skill that helps AI agents make every addition earn its place—in UI and UX design, websites, writing, documentation, and software work.
 
 It asks your agent to understand the person’s task, decide what belongs, and develop it with care. Before adding a section, sentence, control, visual detail, or feature, the agent asks: **Does this help the person enough to earn its place?**
 
-[Try /air](https://air.cherninlab.com/) · [Skills.sh](https://www.skills.sh/cherninlab/air/air) · [Read the skill](air/SKILL.md) · [Download](https://air.cherninlab.com/air.zip)
+[Try /air](https://air.cherninlab.com/) · [Read the skill](air/SKILL.md) · [Download](https://air.cherninlab.com/air.zip)
 
 ## Examples
 
