@@ -4,7 +4,7 @@ Air is an Agent Skill that helps AI agents make every聽addition earn its place鈥
 
 It asks your agent to understand the person鈥檚 task, decide what belongs, and develop it with care. Before adding a section, sentence, control, visual detail, or feature, the agent asks: **Does this help the person enough to earn its place?**
 
-[Try /air](https://air.cherninlab.com/) 路 [Read the skill](air/SKILL.md) 路 [Download](https://air.cherninlab.com/air.zip)
+[Try /air](https://air.cherninlab.com/) 路 [Skills.sh](https://www.skills.sh/cherninlab/air/air) 路 [Read the skill](air/SKILL.md) 路 [Download](https://air.cherninlab.com/air.zip)
 
 ## Examples
 
